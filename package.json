@@ -1,0 +1,18 @@
+{
+  "name": "claimlink-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build",
+    "format": "prettier --write '*.{html,ts,tsx,json,json}'"
+  },
+  "author": "DaGardner",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "prettier": "^2.8.2"
+  }
+}
